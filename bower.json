@@ -1,0 +1,27 @@
+{
+  "name": "uxrocket.tabview",
+  "version": "0.0.1",
+  "homepage": "https://github.com/uxrocket/uxrocket.tabview",
+  "authors": [
+    "Kursad Yildirmak <kursad@live.com>"
+  ],
+  "description": "jQuery based tab plugin",
+  "main": "lib/uxrocket.tabview.js",
+  "dependencies": {
+    "jquery": ">=1.11.1"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "tabview",
+    "uxrocket"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

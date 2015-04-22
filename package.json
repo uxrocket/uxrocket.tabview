@@ -1,0 +1,25 @@
+{
+  "name": "uxrocket.tabview",
+  "version": "0.0.1",
+  "description": "jQuery based Tab plugin",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uxrocket/uxrocket.accordion.git"
+  },
+  "dependencies": {
+	"jquery": "latest"
+  },
+  "keywords": [
+    "jQuery",
+    "javascript",
+    "tooltip",
+    "popover",
+	"uxrocket"
+  ],
+  "author": "Kursad Yildirmak <kursad@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxrocket/uxrocket.tabview/issues"
+  },
+  "homepage": "https://github.com/uxrocket/uxrocket.tabview"
+}

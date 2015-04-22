@@ -1,0 +1,15 @@
+/* @author Kursad Yildirmak */
+
+.tab-view {
+    .tab-view-button {
+        display:inline-block;
+    }
+
+    .tab-view-content {
+        display:none;
+
+        &.current {
+            display:block;
+        }
+    }
+}
