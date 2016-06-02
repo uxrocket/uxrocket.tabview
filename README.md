@@ -31,6 +31,7 @@ content              | .tab-view-content    | Tetiklenen butonun içeriğinin ta
 current              | .current             | Aktif olan tab elemanı için tanımlanan CSS classı.
 toggleClass          | .tab-view-toggle     | Tabların ikinci tıklanışında açılan content alanını kapatır.
 hoverClass           | .tab-view-hover      | Tabların üzerine gelindiğinde content alanını açar.
+hashLink             | false                | URL'de hash kullanımını sağlar.
 
 ## Public Metodlar
 Metod                              | Açıklama
