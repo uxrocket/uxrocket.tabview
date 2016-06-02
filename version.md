@@ -1,4 +1,4 @@
-## Version 0.3.1
+## Version 0.4.0
 - Hash URL option added.
 ## Version 0.3.0
 - Change tabs with hover event if need.
